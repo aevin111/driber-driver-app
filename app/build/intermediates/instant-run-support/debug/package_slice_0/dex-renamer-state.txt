@@ -1,0 +1,4 @@
+#Wed Sep 13 13:07:35 CST 2017
+base.0=D\:\\Mae\\IT155\\Driber Final Build (No Design)\\Driv\\Build 09032017\\DriberDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=D\:\\Mae\\IT155\\Driber Final Build (No Design)\\Driv\\Build 09032017\\DriberDriver\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex
